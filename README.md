@@ -3,6 +3,6 @@ Really alpha version of a Free and Open Source Bloomberg Terminal. Currently onl
 
 # Installation
 
-`sudo apt-get install libcurl4-gnutls-dev`
-`pip install plotext yfinance`
-`g++ main.cpp -o openberg -lcurl`
+``sudo apt-get install libcurl4-gnutls-dev``
+``pip install plotext yfinance``
+``g++ main.cpp -o openberg -lcurl``
